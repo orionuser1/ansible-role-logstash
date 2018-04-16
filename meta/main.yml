@@ -23,5 +23,5 @@ galaxy_info:
     - system
     - monitoring
   cloud_platforms:
-    - Amazon
+    - AWS
     - Google
