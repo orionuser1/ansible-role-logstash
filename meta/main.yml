@@ -22,6 +22,7 @@ galaxy_info:
     - web
     - system
     - monitoring
+    - untaggedtag
   cloud_platforms:
     - AWS
     - Google
